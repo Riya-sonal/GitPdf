@@ -23,7 +23,7 @@ This Python project allows you to generate a stylish PDF document containing a l
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/git-commands-pdf-generator.git
+git clone https://github.com/Riya-sonal/GitPdf.git
 ```
 
 2. Install the required dependencies:
@@ -65,5 +65,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Acknowledgments
 
 - The `reportlab` library for enabling PDF generation in Python.
-- The Montserrat font, designed by [Julieta Ulanovsky](https://github.com/JulietaUla/Montserrat).
 ```
