@@ -10,7 +10,6 @@ This Python project allows you to generate a stylish PDF document containing a l
 - Customizable title and command styles
 - Inclusion of the Git logo
 - Decorative line separator for visual appeal
-- Use of a modern and stylish custom font (Montserrat)
 - Adjustable spacing and layout for improved readability
 
 ## Prerequisites
